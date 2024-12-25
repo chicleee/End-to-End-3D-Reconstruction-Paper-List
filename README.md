@@ -1,4 +1,7 @@
 # End-to-End-3D-Reconstruction-Paper-List
+Personal list.
+
+---
 - [Pose Estimation](#pose-estimation)
 - [3D Reconstruction](#3d-reconstruction)
 
@@ -18,6 +21,8 @@
 * No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images [[arXiv 2024](https://arxiv.org/pdf/2410.24207)] [[NoPoSplat](https://github.com/cvg/NoPoSplat)]
   
 * MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion [[arXiv 2024](https://arxiv.org/pdf/2410.03825)] [[monst3r](https://github.com/Junyi42/monst3r)]
+
+* Driv3R: Learning Dense 4D Reconstruction for Autonomous Driving [[arXiv 2024](https://arxiv.org/pdf/2412.06777)] [[Driv3R](https://github.com/Barrybarry-Smith/Driv3R)]
   
 * SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos [[arXiv 2024](https://arxiv.org/pdf/2412.09401)] [[SLAM3R](https://github.com/PKU-VCL-3DV/SLAM3R)]
 
