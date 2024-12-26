@@ -5,6 +5,7 @@ Personal list.
 - [Pose Estimation](#pose-estimation)
 - [3D Reconstruction](#3d-reconstruction)
 - [SLAM](#slam)
+- [Novel View Synthesis](#novel-view-synthesis)
 ---
 ## Pose Estimation
 * Cameras as Rays: Pose Estimation via Ray Diffusion [[ICLR 2024](https://arxiv.org/pdf/2402.14817)] [[RayDiffusion](https://github.com/jasonyzhang/RayDiffusion)]
