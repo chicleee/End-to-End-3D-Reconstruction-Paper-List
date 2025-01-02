@@ -40,3 +40,5 @@ Personal list.
 * No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images [[arXiv 2024](https://arxiv.org/pdf/2410.24207)] [[NoPoSplat](https://github.com/cvg/NoPoSplat)]
 
 * PreF3R: Pose-Free Feed-Forward 3D Gaussian Splatting from Variable-length Image Sequence [[arXiv 2024](https://arxiv.org/pdf/2411.16877)] [[PreF3R](https://computationalrobotics.seas.harvard.edu/PreF3R)]
+
+* SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction [[arXiv 2024](https://arxiv.org/pdf/2411.12592)] [[SPARS3R](https://github.com/snldmt/SPARS3R)]
