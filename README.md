@@ -19,7 +19,7 @@ Personal list.
   
 * Grounding Image Matching in 3D with MASt3R [[arXiv 2024](https://arxiv.org/pdf/2406.09756)] [[mast3r](https://github.com/naver/mast3r)]
 
-* MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion [[arXiv 2024](https://arxiv.org/pdf/2406.09756)] [[MASt3R-SfM](https://github.com/naver/mast3r)]
+* MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion [[arXiv 2024](https://arxiv.org/pdf/2409.19152)] [[mast3r](https://github.com/naver/mast3r)]
   
 * MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion [[arXiv 2024](https://arxiv.org/pdf/2410.03825)] [[monst3r](https://github.com/Junyi42/monst3r)]
 
