@@ -16,8 +16,6 @@ Personal list.
 ## 3D Reconstruction
 * DUSt3R: Geometric 3D Vision Made Easy [[CVPR 2024](https://arxiv.org/pdf/2312.14132)] [[dust3r](https://github.com/naver/dust3r)]
   
-* Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer [[ECCV 2024](https://arxiv.org/pdf/2404.14351)] [[acezero](https://github.com/nianticlabs/acezero)]
-  
 * Grounding Image Matching in 3D with MASt3R [[arXiv 2024](https://arxiv.org/pdf/2406.09756)] [[mast3r](https://github.com/naver/mast3r)]
 
 * MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion [[arXiv 2024](https://arxiv.org/pdf/2409.19152)] [[mast3r](https://github.com/naver/mast3r)]
