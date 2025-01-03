@@ -4,6 +4,7 @@ Personal list.
 ---
 - [Pose Estimation](#pose-estimation)
 - [3D Reconstruction](#3d-reconstruction)
+- [Dynamic](#dynamic)
 - [SLAM](#slam)
 - [Novel View Synthesis](#novel-view-synthesis)
 ---
@@ -20,14 +21,16 @@ Personal list.
 * Grounding Image Matching in 3D with MASt3R [[arXiv 2024](https://arxiv.org/pdf/2406.09756)] [[mast3r](https://github.com/naver/mast3r)]
 
 * MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion [[arXiv 2024](https://arxiv.org/pdf/2409.19152)] [[mast3r](https://github.com/naver/mast3r)]
+
+* MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds [[arXiv 2024](https://arxiv.org/pdf/2412.06974)] [[mv-dust3rp](https://mv-dust3rp.github.io/)]
+  
+## Dynamic
   
 * MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion [[arXiv 2024](https://arxiv.org/pdf/2410.03825)] [[monst3r](https://github.com/Junyi42/monst3r)]
 
 * MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos [[arXiv 2024](https://arxiv.org/pdf/2412.04463)] [[mega-sam](https://mega-sam.github.io/)]
   
 * Driv3R: Learning Dense 4D Reconstruction for Autonomous Driving [[arXiv 2024](https://arxiv.org/pdf/2412.06777)] [[Driv3R](https://github.com/Barrybarry-Smith/Driv3R)]
-
-* MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds [[arXiv 2024](https://arxiv.org/pdf/2412.06974)] [[mv-dust3rp](https://mv-dust3rp.github.io/)]
 
 ## SLAM
 * SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos [[arXiv 2024](https://arxiv.org/pdf/2412.09401)] [[SLAM3R](https://github.com/PKU-VCL-3DV/SLAM3R)]
