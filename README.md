@@ -20,7 +20,7 @@ Personal list.
 
 * MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion [[arXiv 2024](https://arxiv.org/pdf/2409.19152)] [[mast3r](https://github.com/naver/mast3r)]
 
-* 3D Reconstruction with Spatial Memory [[arXiv 2024](https://arxiv.org/pdf/2408.16061)] [[spanner](https://hengyiwang.github.io/projects/spanner)]
+* 3D Reconstruction with Spatial Memory [[3DV 2025](https://arxiv.org/pdf/2408.16061)] [[spann3r](https://github.com/HengyiWang/spann3r)]
 
 * MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds [[arXiv 2024](https://arxiv.org/pdf/2412.06974)] [[mv-dust3rp](https://mv-dust3rp.github.io/)]
   
