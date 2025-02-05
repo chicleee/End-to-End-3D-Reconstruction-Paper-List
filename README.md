@@ -23,7 +23,12 @@ Personal list.
 * 3D Reconstruction with Spatial Memory [[3DV 2025](https://arxiv.org/pdf/2408.16061)] [[spann3r](https://github.com/HengyiWang/spann3r)]
 
 * MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds [[arXiv 2024](https://arxiv.org/pdf/2412.06974)] [[mv-dust3rp](https://mv-dust3rp.github.io/)]
-  
+
+* Continuous 3D Perception Model with Persistent State [[arXiv 2025](https://arxiv.org/pdf/2501.12387)] [[cut3r](https://cut3r.github.io/)]
+
+* Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass [[arXiv 2025](https://arxiv.org/pdf/2501.13928)] [[fast3r-3d](https://fast3r-3d.github.io/)]
+
+* Light3R-SfM: Towards Feed-forward Structure-from-Motion [[arXiv 2025](https://arxiv.org/pdf/2501.14914)] [[]()]
 ## Dynamic
   
 * MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion [[arXiv 2024](https://arxiv.org/pdf/2410.03825)] [[monst3r](https://github.com/Junyi42/monst3r)]
