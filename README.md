@@ -35,6 +35,9 @@ Personal list.
 * Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass [[arXiv 2025](https://arxiv.org/pdf/2501.13928)] [[fast3r-3d](https://fast3r-3d.github.io/)]
 
 * Light3R-SfM: Towards Feed-forward Structure-from-Motion [[arXiv 2025](https://arxiv.org/pdf/2501.14914)] [[]()]
+
+* MUSt3R: Multi-view Network for Stereo 3D Reconstruction [[arXiv 2025](https://arxiv.org/pdf/2503.01661)] [[must3r](https://github.com/naver/must3r)]
+
 ## Dynamic
   
 * MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion [[arXiv 2024](https://arxiv.org/pdf/2410.03825)] [[monst3r](https://github.com/Junyi42/monst3r)]
