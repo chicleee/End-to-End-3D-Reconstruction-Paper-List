@@ -40,6 +40,8 @@ Personal list.
 
 * MUSt3R: Multi-view Network for Stereo 3D Reconstruction [[arXiv 2025](https://arxiv.org/pdf/2503.01661)] [[must3r](https://github.com/naver/must3r)]
 
+* PE3R: Perception-Efficient 3D Reconstruction [[arXiv 2025](https://arxiv.org/pdf/2503.07507)] [[pe3r](https://github.com/hujiecpp/pe3r)] 
+
 ## Dynamic
   
 * MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion [[arXiv 2024](https://arxiv.org/pdf/2410.03825)] [[monst3r](https://github.com/Junyi42/monst3r)]
