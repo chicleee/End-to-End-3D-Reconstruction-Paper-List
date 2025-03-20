@@ -15,6 +15,8 @@ Personal list.
 * CroCo v2: Improved Cross-view Completion Pre-training for Stereo Matching and Optical Flow [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Weinzaepfel_CroCo_v2_Improved_Cross-view_Completion_Pre-training_for_Stereo_Matching_and_ICCV_2023_paper.pdf)] [[croco](https://github.com/naver/croco)]
 
 * 3D-Consistent Image Inpainting with Diffusion Models [[arXiv 2024](https://arxiv.org/pdf/2412.05881)] [[croco-diff](https://github.com/naver/croco-diff)]
+
+* Alligat0R: Pre-Training through Co-Visibility Segmentation for Relative Camera Pose Regression [[arXiv 2025](https://arxiv.org/pdf/2503.07561)] [[]()]
   
 ## Pose Estimation
 * Cameras as Rays: Pose Estimation via Ray Diffusion [[ICLR 2024](https://arxiv.org/pdf/2402.14817)] [[RayDiffusion](https://github.com/jasonyzhang/RayDiffusion)]
