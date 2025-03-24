@@ -42,7 +42,9 @@ Personal list.
 
 * MUSt3R: Multi-view Network for Stereo 3D Reconstruction [[arXiv 2025](https://arxiv.org/pdf/2503.01661)] [[must3r](https://github.com/naver/must3r)]
 
-* PE3R: Perception-Efficient 3D Reconstruction [[arXiv 2025](https://arxiv.org/pdf/2503.07507)] [[pe3r](https://github.com/hujiecpp/pe3r)] 
+* PE3R: Perception-Efficient 3D Reconstruction [[arXiv 2025](https://arxiv.org/pdf/2503.07507)] [[pe3r](https://github.com/hujiecpp/pe3r)]
+
+* VGGT: Visual Geometry Grounded Transformer [[CVPR 2025](https://arxiv.org/pdf/2503.11651v1)] [[vggt](https://github.com/facebookresearch/vggt)]
 
 ## Dynamic
   
