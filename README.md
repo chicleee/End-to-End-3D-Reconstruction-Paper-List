@@ -24,6 +24,8 @@ Personal list.
 * Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization [[arXiv 2024](https://arxiv.org/pdf/2412.08376)] [[reloc3r](https://github.com/ffrivera0/reloc3r)]
 
 ## 3D Reconstruction
+* Visual Geometry Grounded Deep Structure From Motion [[CVPR 2024](https://arxiv.org/pdf/2312.04563)] [[vggsfm](https://github.com/facebookresearch/vggsfm)]
+
 * DUSt3R: Geometric 3D Vision Made Easy [[CVPR 2024](https://arxiv.org/pdf/2312.14132)] [[dust3r](https://github.com/naver/dust3r)]
   
 * Grounding Image Matching in 3D with MASt3R [[arXiv 2024](https://arxiv.org/pdf/2406.09756)] [[mast3r](https://github.com/naver/mast3r)]
@@ -46,6 +48,8 @@ Personal list.
 
 * VGGT: Visual Geometry Grounded Transformer [[CVPR 2025](https://arxiv.org/pdf/2503.11651v1)] [[vggt](https://github.com/facebookresearch/vggt)]
 
+* Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors [[CVPR 2025](https://arxiv.org/pdf/2503.17316v1)] [[]()]
+  
 ## Dynamic
   
 * MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion [[arXiv 2024](https://arxiv.org/pdf/2410.03825)] [[monst3r](https://github.com/Junyi42/monst3r)]
