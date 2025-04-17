@@ -1,5 +1,5 @@
 # End-to-End-3D-Reconstruction-Paper-List
-Personal list.
+Personal list. With relevant research advancing fast and branching out widely, I'll only add papers meeting my needs hereafter. 
 
 ---
 - [Cross View](#cross-view)
