@@ -49,7 +49,9 @@ Personal list.
 * VGGT: Visual Geometry Grounded Transformer [[CVPR 2025](https://arxiv.org/pdf/2503.11651v1)] [[vggt](https://github.com/facebookresearch/vggt)]
 
 * Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors [[CVPR 2025](https://arxiv.org/pdf/2503.17316v1)] [[]()]
-  
+
+* Matrix3D: Large Photogrammetry Model All-in-One [[CVPR 2025](https://arxiv.org/pdf/2502.07685)] [[ml-matrix3d](https://github.com/apple/ml-matrix3d)]
+    
 ## Dynamic
   
 * MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion [[arXiv 2024](https://arxiv.org/pdf/2410.03825)] [[monst3r](https://github.com/Junyi42/monst3r)]
