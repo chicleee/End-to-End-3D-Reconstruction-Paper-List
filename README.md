@@ -60,6 +60,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
   
 * Driv3R: Learning Dense 4D Reconstruction for Autonomous Driving [[arXiv 2024](https://arxiv.org/pdf/2412.06777)] [[Driv3R](https://github.com/Barrybarry-Smith/Driv3R)]
 
+* Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction [[arXiv 2025](https://arxiv.org/pdf/2504.07961)] [[Geo4D](https://github.com/jzr99/Geo4D)]
+
 ## SLAM
 * SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos [[arXiv 2024](https://arxiv.org/pdf/2412.09401)] [[SLAM3R](https://github.com/PKU-VCL-3DV/SLAM3R)]
 
