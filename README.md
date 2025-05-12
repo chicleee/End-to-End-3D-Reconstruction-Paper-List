@@ -51,6 +51,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors [[CVPR 2025](https://arxiv.org/pdf/2503.17316v1)] [[]()]
 
 * Matrix3D: Large Photogrammetry Model All-in-One [[CVPR 2025](https://arxiv.org/pdf/2502.07685)] [[ml-matrix3d](https://github.com/apple/ml-matrix3d)]
+
+* DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion [[CVPR 2025](https://arxiv.org/pdf/2505.05473)] [[DiffusionSfM](https://github.com/QitaoZhao/DiffusionSfM)]
     
 ## Dynamic
   
