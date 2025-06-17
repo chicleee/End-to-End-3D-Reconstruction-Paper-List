@@ -79,3 +79,5 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * PreF3R: Pose-Free Feed-Forward 3D Gaussian Splatting from Variable-length Image Sequence [[arXiv 2024](https://arxiv.org/pdf/2411.16877)] [[PreF3R](https://computationalrobotics.seas.harvard.edu/PreF3R)]
 
 * SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction [[CVPR 2025](https://arxiv.org/pdf/2411.12592)] [[SPARS3R](https://github.com/snldmt/SPARS3R)]
+
+* LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias [[ICLR 2025](https://arxiv.org/pdf/2410.17242)] [[LVSM](https://github.com/haian-jin/LVSM)]
