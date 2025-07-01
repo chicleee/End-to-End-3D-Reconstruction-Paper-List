@@ -69,7 +69,7 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors [[CVPR 2025](https://arxiv.org/pdf/2412.12392)] [[mast3r-slam](https://edexheim.github.io/mast3r-slam/)]
 
-* VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold [[arXiv 2025](https://arxiv.org/pdf/2505.12549)] [[]()]
+* VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold [[arXiv 2025](https://arxiv.org/pdf/2505.12549)] [[VGGT-SLAM](https://github.com/MIT-SPARK/VGGT-SLAM)]
 
 ## Novel View Synthesis
 * Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs [[arXiv 2024](https://arxiv.org/pdf/2408.13912)] [[splatt3r](https://github.com/btsmart/splatt3r)]
