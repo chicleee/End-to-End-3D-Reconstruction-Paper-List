@@ -5,6 +5,7 @@ Personal list. With relevant research advancing fast and branching out widely, I
 - [Cross View](#cross-view)
 - [Pose Estimation](#pose-estimation)
 - [3D Reconstruction](#3d-reconstruction)
+- [Segmentation](#segmentation)
 - [Dynamic](#dynamic)
 - [SLAM](#slam)
 - [Novel View Synthesis](#novel-view-synthesis)
@@ -53,7 +54,11 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * Matrix3D: Large Photogrammetry Model All-in-One [[CVPR 2025](https://arxiv.org/pdf/2502.07685)] [[ml-matrix3d](https://github.com/apple/ml-matrix3d)]
 
 * DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion [[CVPR 2025](https://arxiv.org/pdf/2505.05473)] [[DiffusionSfM](https://github.com/QitaoZhao/DiffusionSfM)]
-    
+
+## Segmentation
+
+* PanSt3R: Multi-view Consistent Panoptic Segmentati [[arXiv 2025](https://arxiv.org/pdf/2506.21348)] [[]()]
+
 ## Dynamic
   
 * MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion [[ICLR 2025](https://arxiv.org/pdf/2410.03825)] [[monst3r](https://github.com/Junyi42/monst3r)]
