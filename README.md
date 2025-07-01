@@ -81,3 +81,5 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction [[CVPR 2025](https://arxiv.org/pdf/2411.12592)] [[SPARS3R](https://github.com/snldmt/SPARS3R)]
 
 * LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias [[ICLR 2025](https://arxiv.org/pdf/2410.17242)] [[LVSM](https://github.com/haian-jin/LVSM)]
+
+* FlowR: Flowing from Sparse to Dense 3D Reconstructions [[arXiv 2025](https://arxiv.org/pdf/2504.01647)] [[]()]
