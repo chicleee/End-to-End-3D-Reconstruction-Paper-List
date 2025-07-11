@@ -55,6 +55,9 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion [[CVPR 2025](https://arxiv.org/pdf/2505.05473)] [[DiffusionSfM](https://github.com/QitaoZhao/DiffusionSfM)]
 
+* Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory [[arXiv 2025](https://arxiv.org/pdf/2507.02863)] [[Point3R](https://github.com/YkiWu/Point3R)]
+
+
 ## Segmentation
 
 * PanSt3R: Multi-view Consistent Panoptic Segmentati [[arXiv 2025](https://arxiv.org/pdf/2506.21348)] [[]()]
