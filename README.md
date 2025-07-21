@@ -57,6 +57,9 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory [[arXiv 2025](https://arxiv.org/pdf/2507.02863)] [[Point3R](https://github.com/YkiWu/Point3R)]
 
+* π³: Scalable Permutation-Equivariant Visual Geometry Learning [[arXiv 2025](https://arxiv.org/pdf/2507.13347)] [[Pi3](https://github.com/yyfz/Pi3)]
+
+* StreamVGGT: Streaming 4D Visual Geometry Transformer [[arXiv 2025](https://arxiv.org/pdf/2507.11539)] [[StreamVGGT](https://github.com/wzzheng/StreamVGGT)]
 
 ## Segmentation
 
