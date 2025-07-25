@@ -99,5 +99,4 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * RayZer: A Self-supervised Large View Synthesis Model [[arXiv 2025](https://arxiv.org/pdf/2505.00702?)] [[RayZer](https://github.com/hwjiang1510/RayZer)]
 
-### Feed-forward
-AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views [[arXiv 2025](https://arxiv.org/pdf/2505.23716)] [[AnySplat](https://github.com/InternRobotics/AnySplat)]
+* AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views [[arXiv 2025](https://arxiv.org/pdf/2505.23716)] [[AnySplat](https://github.com/InternRobotics/AnySplat)]
