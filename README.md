@@ -22,6 +22,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 ## Pose Estimation
 * Cameras as Rays: Pose Estimation via Ray Diffusion [[ICLR 2024](https://arxiv.org/pdf/2402.14817)] [[RayDiffusion](https://github.com/jasonyzhang/RayDiffusion)]
 
+* Cameras as Relative Positional Encoding [[arXiv 2025](https://arxiv.org/pdf/2507.10496)] [[prope](https://www.liruilong.cn/prope/)]
+
 * Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization [[CVPR 2025](https://arxiv.org/pdf/2412.08376)] [[reloc3r](https://github.com/ffrivera0/reloc3r)]
 
 ## 3D Reconstruction
@@ -94,3 +96,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias [[ICLR 2025](https://arxiv.org/pdf/2410.17242)] [[LVSM](https://github.com/haian-jin/LVSM)]
 
 * FlowR: Flowing from Sparse to Dense 3D Reconstructions [[arXiv 2025](https://arxiv.org/pdf/2504.01647)] [[]()]
+
+* RayZer: A Self-supervised Large View Synthesis Model [[arXiv 2025](https://arxiv.org/pdf/2505.00702?)] [[RayZer](https://github.com/hwjiang1510/RayZer)]
+
+### Feed-forward
+AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views [[arXiv 2025](https://arxiv.org/pdf/2505.23716)] [[AnySplat](https://github.com/InternRobotics/AnySplat)]
