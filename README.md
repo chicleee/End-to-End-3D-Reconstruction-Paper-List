@@ -63,6 +63,11 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * StreamVGGT: Streaming 4D Visual Geometry Transformer [[arXiv 2025](https://arxiv.org/pdf/2507.11539)] [[StreamVGGT](https://github.com/wzzheng/StreamVGGT)]
 
+* Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images [[arXiv 2025](https://arxiv.org/pdf/2508.03643)] [[Uni3R](https://github.com/HorizonRobotics/Uni3R)]  
+
+* Surf3R: Rapid Surface Reconstruction from Sparse RGB Views in Seconds [[arXiv 2025](https://arxiv.org/pdf/2508.04508)] [[]()]  
+
+
 ## Segmentation
 
 * PanSt3R: Multi-view Consistent Panoptic Segmentati [[arXiv 2025](https://arxiv.org/pdf/2506.21348)] [[]()]
