@@ -67,6 +67,7 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * Surf3R: Rapid Surface Reconstruction from Sparse RGB Views in Seconds [[arXiv 2025](https://arxiv.org/pdf/2508.04508)] [[]()]  
 
+* STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer [[arXiv 2025](https://arxiv.org/pdf/2508.10893)] [[STream3R](https://github.com/NIRVANALAN/STream3R)]  
 
 ## Segmentation
 
