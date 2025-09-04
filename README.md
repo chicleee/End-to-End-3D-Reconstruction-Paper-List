@@ -69,6 +69,9 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer [[arXiv 2025](https://arxiv.org/pdf/2508.10893)] [[STream3R](https://github.com/NIRVANALAN/STream3R)]  
 
+* FastVGGT: Training-Free Acceleration of Visual Geometry Transformer [[arXiv 2025](https://arxiv.org/pdf/2509.02560v1)] [[FastVGGT](https://github.com/mystorm16/FastVGGT)]
+
+  
 ## Segmentation
 
 * PanSt3R: Multi-view Consistent Panoptic Segmentati [[arXiv 2025](https://arxiv.org/pdf/2506.21348)] [[]()]
