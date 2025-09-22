@@ -71,6 +71,7 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * FastVGGT: Training-Free Acceleration of Visual Geometry Transformer [[arXiv 2025](https://arxiv.org/pdf/2509.02560v1)] [[FastVGGT](https://github.com/mystorm16/FastVGGT)]
 
+* MapAnything: Universal Feed-Forward Metric 3D Reconstruction [[arXiv 2025](https://arxiv.org/abs/2509.13414)] [[map-anything](https://github.com/facebookresearch/map-anything)]
   
 ## Segmentation
 
