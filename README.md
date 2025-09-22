@@ -69,7 +69,13 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer [[arXiv 2025](https://arxiv.org/pdf/2508.10893)] [[STream3R](https://github.com/NIRVANALAN/STream3R)]  
 
+* WinT3R: Window-Based Streaming Reconstruction With Camera Token Pool [[arXiv 2025](https://arxiv.org/pdf/2509.05296?)] [[WinT3R](https://github.com/LiZizun/WinT3R)]
+
+* SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization [[arXiv 2025](https://arxiv.org/pdf/2508.17972)] [[sail-recon](https://hkust-sail.github.io/sail-recon)]
+  
 * FastVGGT: Training-Free Acceleration of Visual Geometry Transformer [[arXiv 2025](https://arxiv.org/pdf/2509.02560v1)] [[FastVGGT](https://github.com/mystorm16/FastVGGT)]
+
+* Faster VGGT with Block-Sparse Global Attention [[arXiv 2025](https://arxiv.org/pdf/2509.07120?)] [[sparse-vggt](https://github.com/brianwang00001/sparse-vggt)]
 
 * MapAnything: Universal Feed-Forward Metric 3D Reconstruction [[arXiv 2025](https://arxiv.org/abs/2509.13414)] [[map-anything](https://github.com/facebookresearch/map-anything)]
   
