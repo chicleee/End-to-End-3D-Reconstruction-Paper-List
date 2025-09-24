@@ -93,6 +93,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction [[arXiv 2025](https://arxiv.org/pdf/2504.07961)] [[Geo4D](https://github.com/jzr99/Geo4D)]
 
+* ViPE: Video Pose Engine for Geometric 3D Perception [[arXiv 2025](https://research.nvidia.com/labs/toronto-ai/vipe/assets/paper.pdf)] [[vipe](https://github.com/nv-tlabs/vipe)]
+  
 ## SLAM
 * SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos [[CVPR 2025](https://arxiv.org/pdf/2412.09401)] [[SLAM3R](https://github.com/PKU-VCL-3DV/SLAM3R)]
 
