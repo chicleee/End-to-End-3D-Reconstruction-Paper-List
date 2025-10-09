@@ -6,6 +6,7 @@ Personal list. With relevant research advancing fast and branching out widely, I
 - [Pose Estimation](#pose-estimation)
 - [3D Reconstruction](#3d-reconstruction)
 - [Segmentation](#segmentation)
+- [Depth](#depth)
 - [Dynamic](#dynamic)
 - [SLAM](#slam)
 - [Novel View Synthesis](#novel-view-synthesis)
@@ -63,6 +64,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * StreamVGGT: Streaming 4D Visual Geometry Transformer [[arXiv 2025](https://arxiv.org/pdf/2507.11539)] [[StreamVGGT](https://github.com/wzzheng/StreamVGGT)]
 
+* Evict3R: Training-Free Token Eviction for Memory-Bounded Streaming Visual Geometry Transformers [[arXiv 2025](https://arxiv.org/pdf/2509.17650?)]
+
 * Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images [[arXiv 2025](https://arxiv.org/pdf/2508.03643)] [[Uni3R](https://github.com/HorizonRobotics/Uni3R)]  
 
 * Surf3R: Rapid Surface Reconstruction from Sparse RGB Views in Seconds [[arXiv 2025](https://arxiv.org/pdf/2508.04508)] [[]()]  
@@ -77,12 +80,23 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * Faster VGGT with Block-Sparse Global Attention [[arXiv 2025](https://arxiv.org/pdf/2509.07120?)] [[sparse-vggt](https://github.com/brianwang00001/sparse-vggt)]
 
+* Quantized Visual Geometry Grounded Transformer [[arXiv 2025](https://arxiv.org/pdf/2509.21302?)] [[QuantVGGT](https://github.com/wlfeng0509/QuantVGGT)]
+  
 * MapAnything: Universal Feed-Forward Metric 3D Reconstruction [[arXiv 2025](https://arxiv.org/abs/2509.13414)] [[map-anything](https://github.com/facebookresearch/map-anything)]
+
+* TTT3R: 3D Reconstruction as Test-Time Training [[arXiv 2025](https://arxiv.org/pdf/2509.26645?)] [[TTT3R](https://rover-xingyu.github.io/TTT3R/)]
   
 ## Segmentation
 
 * PanSt3R: Multi-view Consistent Panoptic Segmentati [[arXiv 2025](https://arxiv.org/pdf/2506.21348)] [[]()]
 
+## Depth
+
+* DA2: Depth Anything in Any Direction [[arXiv 2025](https://arxiv.org/pdf/2509.26618?)] [[DA2](https://depth-any-in-any-dir.github.io/)]
+
+* FastViDAR: Real-Time Omnidirectional Depth Estimation via Alternative Hierarchical Attention [[arXiv 2025](https://arxiv.org/pdf/2509.23733)] [[FastVidar](https://github.com/3F7DFC/FastVidar)]
+
+  
 ## Dynamic
   
 * MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion [[ICLR 2025](https://arxiv.org/pdf/2410.03825)] [[monst3r](https://github.com/Junyi42/monst3r)]
@@ -102,6 +116,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold [[arXiv 2025](https://arxiv.org/pdf/2505.12549)] [[VGGT-SLAM](https://github.com/MIT-SPARK/VGGT-SLAM)]
 
+* EC3R-SLAM: Efficient and Consistent Monocular Dense SLAM with Feed-Forward 3D Reconstruction [[arXiv 2025](https://arxiv.org/pdf/2510.02080)] [[EC3R-SLAM](https://github.com/hulxgit/EC3R-SLAM)]
+
 ## Novel View Synthesis
 * Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs [[arXiv 2024](https://arxiv.org/pdf/2408.13912)] [[splatt3r](https://github.com/btsmart/splatt3r)]
   
@@ -118,3 +134,5 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * RayZer: A Self-supervised Large View Synthesis Model [[arXiv 2025](https://arxiv.org/pdf/2505.00702?)] [[RayZer](https://github.com/hwjiang1510/RayZer)]
 
 * AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views [[arXiv 2025](https://arxiv.org/pdf/2505.23716)] [[AnySplat](https://github.com/InternRobotics/AnySplat)]
+
+* VGGT-X: When VGGT Meets Dense Novel View Synthesis [[arXiv 2025](https://arxiv.org/pdf/2509.25191?)] [[VGGT-X](https://github.com/Linketic/VGGT-X)]
