@@ -91,7 +91,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * PanSt3R: Multi-view Consistent Panoptic Segmentati [[arXiv 2025](https://arxiv.org/pdf/2506.21348)] [[]()]
 
 ## Depth
-
+* MoGe: Accurate Monocular Geometry Estimation [[CVPR 2025](https://arxiv.org/pdf/2410.19115)] [[MoGe](https://github.com/microsoft/MoGe)]
+  
 * DA2: Depth Anything in Any Direction [[arXiv 2025](https://arxiv.org/pdf/2509.26618?)] [[DA2](https://depth-any-in-any-dir.github.io/)]
 
 * FastViDAR: Real-Time Omnidirectional Depth Estimation via Alternative Hierarchical Attention [[arXiv 2025](https://arxiv.org/pdf/2509.23733)] [[FastVidar](https://github.com/3F7DFC/FastVidar)]
