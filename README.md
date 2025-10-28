@@ -86,7 +86,7 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * TTT3R: 3D Reconstruction as Test-Time Training [[arXiv 2025](https://arxiv.org/pdf/2509.26645?)] [[TTT3R](https://rover-xingyu.github.io/TTT3R/)]
 
-* WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting [[arXiv 2025](https://arxiv.org/pdf/2510.10726)] [[]()]
+* WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting [[arXiv 2025](https://arxiv.org/pdf/2510.10726)] [[HunyuanWorld-Mirror](https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror)]
   
 ## Segmentation
 
