@@ -5,6 +5,7 @@ Personal list. With relevant research advancing fast and branching out widely, I
 - [Cross View](#cross-view)
 - [Pose Estimation](#pose-estimation)
 - [3D Reconstruction](#3d-reconstruction)
+- [Generation](#generation)
 - [Segmentation](#segmentation)
 - [Depth](#depth)
 - [Dynamic](#dynamic)
@@ -88,6 +89,10 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting [[arXiv 2025](https://arxiv.org/pdf/2510.10726)] [[HunyuanWorld-Mirror](https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror)]
   
+## Generation
+
+* ReconViaGen: Towards Accurate Multi-view 3D Object Reconstruction via Generation [[arXiv 2025](https://arxiv.org/pdf/2510.23306)] [[ReconViaGen](https://github.com/GAP-LAB-CUHK-SZ/ReconViaGen)]
+
 ## Segmentation
 
 * PanSt3R: Multi-view Consistent Panoptic Segmentati [[arXiv 2025](https://arxiv.org/pdf/2506.21348)] [[]()]
