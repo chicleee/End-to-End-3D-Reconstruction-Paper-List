@@ -6,7 +6,7 @@ Personal list. With relevant research advancing fast and branching out widely, I
 - [Pose Estimation](#pose-estimation)
 - [3D Reconstruction](#3d-reconstruction)
 - [Generation](#generation)
-- [Segmentation](#segmentation)
+- [Semantic](#semantic)
 - [Depth](#depth)
 - [Dynamic](#dynamic)
 - [SLAM](#slam)
@@ -93,9 +93,11 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * ReconViaGen: Towards Accurate Multi-view 3D Object Reconstruction via Generation [[arXiv 2025](https://arxiv.org/pdf/2510.23306)] [[ReconViaGen](https://github.com/GAP-LAB-CUHK-SZ/ReconViaGen)]
 
-## Segmentation
+## Semantic
 
-* PanSt3R: Multi-view Consistent Panoptic Segmentati [[arXiv 2025](https://arxiv.org/pdf/2506.21348)] [[]()]
+* PanSt3R: Multi-view Consistent Panoptic Segmentation [[arXiv 2025](https://arxiv.org/pdf/2506.21348)] [[]()]
+
+* IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction [[arXiv 2025](https://arxiv.org/pdf/2510.22706)] [[]()]
 
 ## Depth
 * MoGe: Accurate Monocular Geometry Estimation [[CVPR 2025](https://arxiv.org/pdf/2410.19115)] [[MoGe](https://github.com/microsoft/MoGe)]
