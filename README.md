@@ -88,7 +88,12 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * TTT3R: 3D Reconstruction as Test-Time Training [[arXiv 2025](https://arxiv.org/pdf/2509.26645?)] [[TTT3R](https://rover-xingyu.github.io/TTT3R/)]
 
 * WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting [[arXiv 2025](https://arxiv.org/pdf/2510.10726)] [[HunyuanWorld-Mirror](https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror)]
-  
+
+* OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer [[arXiv 2025](https://arxiv.org/pdf/2511.10560)] [[OmniVGGT](https://livioni.github.io/OmniVGGT-official/)]
+
+* Depth Anything 3: Recovering the Visual Space from Any Views [[arXiv 2025](https://arxiv.org/pdf/2511.10647)] [[DA3](https://depth-anything-3.github.io/)]
+
+
 ## Generation
 
 * ReconViaGen: Towards Accurate Multi-view 3D Object Reconstruction via Generation [[arXiv 2025](https://arxiv.org/pdf/2510.23306)] [[ReconViaGen](https://github.com/GAP-LAB-CUHK-SZ/ReconViaGen)]
@@ -146,3 +151,5 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views [[arXiv 2025](https://arxiv.org/pdf/2505.23716)] [[AnySplat](https://github.com/InternRobotics/AnySplat)]
 
 * VGGT-X: When VGGT Meets Dense Novel View Synthesis [[arXiv 2025](https://arxiv.org/pdf/2509.25191?)] [[VGGT-X](https://github.com/Linketic/VGGT-X)]
+
+* YoNoSplat: You Only Need One Model for Feedforward 3D Gaussian Splatting [[arXiv 2025](https://arxiv.org/pdf/2511.07321)] [[yonosplat](https://botaoye.github.io/yonosplat/)]
