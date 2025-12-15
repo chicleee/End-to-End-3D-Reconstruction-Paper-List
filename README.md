@@ -155,3 +155,5 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * VGGT-X: When VGGT Meets Dense Novel View Synthesis [[arXiv 2025](https://arxiv.org/pdf/2509.25191?)] [[VGGT-X](https://github.com/Linketic/VGGT-X)]
 
 * YoNoSplat: You Only Need One Model for Feedforward 3D Gaussian Splatting [[arXiv 2025](https://arxiv.org/pdf/2511.07321)] [[yonosplat](https://botaoye.github.io/yonosplat/)]
+
+* E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training [[arXiv 2025](https://arxiv.org/pdf/2512.10950)] [[E-RayZer](https://github.com/QitaoZhao/E-RayZer)]
