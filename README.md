@@ -157,3 +157,5 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * YoNoSplat: You Only Need One Model for Feedforward 3D Gaussian Splatting [[arXiv 2025](https://arxiv.org/pdf/2511.07321)] [[yonosplat](https://botaoye.github.io/yonosplat/)]
 
 * E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training [[arXiv 2025](https://arxiv.org/pdf/2512.10950)] [[E-RayZer](https://github.com/QitaoZhao/E-RayZer)]
+
+* Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting [[arXiv 2025](https://arxiv.org/pdf/2512.15508)] [[OffTheGrid](https://arthurmoreau.github.io/OffTheGrid/)]
