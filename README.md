@@ -159,3 +159,7 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training [[arXiv 2025](https://arxiv.org/pdf/2512.10950)] [[E-RayZer](https://github.com/QitaoZhao/E-RayZer)]
 
 * Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting [[arXiv 2025](https://arxiv.org/pdf/2512.15508)] [[OffTheGrid](https://arthurmoreau.github.io/OffTheGrid/)]
+
+* Sharp Monocular View Synthesis in Less Than a Second [[arXiv 2025](https://arxiv.org/pdf/2512.10685)] [[ml-sharp](https://github.com/apple/ml-sharp)]
+
+* EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images [[arXiv 2025](https://arxiv.org/pdf/2512.18692)] [[ecosplat-site](https://kaist-viclab.github.io/ecosplat-site/)]
