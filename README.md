@@ -165,3 +165,5 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images [[arXiv 2025](https://arxiv.org/pdf/2512.18692)] [[ecosplat-site](https://kaist-viclab.github.io/ecosplat-site/)]
 
 * From Rays to Projections: Better Inputs for Feed-Forward View Synthesis [[arXiv 2026](https://arxiv.org/pdf/2601.05116)] [[pvsm-web](https://wuzirui.github.io/pvsm-web/)]
+  
+* One-Shot Refiner: Boosting Feed-forward Novel View Synthesis via One-Step Diffusion [[arXiv 2026](https://arxiv.org/pdf/2601.14161)] [[One_Shot_Refiner](https://github.com/YitongD/One_Shot_Refiner)]
