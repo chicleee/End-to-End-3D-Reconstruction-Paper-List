@@ -93,6 +93,7 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * Depth Anything 3: Recovering the Visual Space from Any Views [[arXiv 2025](https://arxiv.org/pdf/2511.10647)] [[DA3](https://depth-anything-3.github.io/)]
 
+* Offline Feed-Forward 3D Reconstruction at Scale [[arXiv 2026](https://arxiv.org/pdf/2602.23361)] [[]()]
 
 ## Generation
 
