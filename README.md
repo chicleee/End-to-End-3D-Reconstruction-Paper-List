@@ -95,6 +95,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * Offline Feed-Forward 3D Reconstruction at Scale [[arXiv 2026](https://arxiv.org/pdf/2602.23361)] [[]()]
 
+* NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction [[ICLR 2026](https://arxiv.org/pdf/2603.04179)] [[nova3r](https://wrchen530.github.io/nova3r/)]
+
 ## Generation
 
 * ReconViaGen: Towards Accurate Multi-view 3D Object Reconstruction via Generation [[arXiv 2025](https://arxiv.org/pdf/2510.23306)] [[ReconViaGen](https://github.com/GAP-LAB-CUHK-SZ/ReconViaGen)]
@@ -126,6 +128,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * ViPE: Video Pose Engine for Geometric 3D Perception [[arXiv 2025](https://research.nvidia.com/labs/toronto-ai/vipe/assets/paper.pdf)] [[vipe](https://github.com/nv-tlabs/vipe)]
 
 * VGGT4D: Mining Motion Cues in Visual Geometry Transformers for 4D Scene Reconstruction [[arXiv 2025](https://arxiv.org/pdf/2511.19971)] [[vggt4d](https://3dagentworld.github.io/vggt4d)]
+
+* Efficiently Reconstructing Dynamic Scenes One D4RT at a Time [[arXiv 2025](https://arxiv.org/pdf/2512.08924)] [[d4rt](https://d4rt-paper.github.io/)]
   
 ## SLAM
 * SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos [[CVPR 2025](https://arxiv.org/pdf/2412.09401)] [[SLAM3R](https://github.com/PKU-VCL-3DV/SLAM3R)]
