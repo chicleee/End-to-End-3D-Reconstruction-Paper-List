@@ -97,6 +97,10 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction [[ICLR 2026](https://arxiv.org/pdf/2603.04179)] [[nova3r](https://wrchen530.github.io/nova3r/)]
 
+* ZipMap: Linear-Time Stateful 3D Reconstruction via Test-Time Training [[CVPR 2026](https://arxiv.org/pdf/2603.04385)] [[ZipMap](https://github.com/Haian-Jin/ZipMap)]
+
+* LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory [[arXiv 2026](https://arxiv.org/pdf/2603.03269)] [[LoGeR](https://github.com/Junyi42/LoGeR)]
+
 ## Generation
 
 * ReconViaGen: Towards Accurate Multi-view 3D Object Reconstruction via Generation [[arXiv 2025](https://arxiv.org/pdf/2510.23306)] [[ReconViaGen](https://github.com/GAP-LAB-CUHK-SZ/ReconViaGen)]
