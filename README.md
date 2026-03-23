@@ -103,6 +103,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend [[CVPR 2026](https://arxiv.org/pdf/2511.20343)] [[amb3r](https://github.com/HengyiWang/amb3r)]
 
+* S-VGGT: Structure-Aware Subscene Decomposition for Scalable 3D Foundation Models [[arXiv 2026](https://arxiv.org/pdf/2603.17625)] [[]()]
+
 ## Generation
 
 * ReconViaGen: Towards Accurate Multi-view 3D Object Reconstruction via Generation [[arXiv 2025](https://arxiv.org/pdf/2510.23306)] [[ReconViaGen](https://github.com/GAP-LAB-CUHK-SZ/ReconViaGen)]
