@@ -180,3 +180,5 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * From Rays to Projections: Better Inputs for Feed-Forward View Synthesis [[arXiv 2026](https://arxiv.org/pdf/2601.05116)] [[pvsm-web](https://wuzirui.github.io/pvsm-web/)]
   
 * One-Shot Refiner: Boosting Feed-forward Novel View Synthesis via One-Step Diffusion [[arXiv 2026](https://arxiv.org/pdf/2601.14161)] [[One_Shot_Refiner](https://github.com/YitongD/One_Shot_Refiner)]
+
+* Repurposing Geometric Foundation Models for Multi-view Diffusion [[arXiv 2026](https://arxiv.org/pdf/2603.22275)] [[GLD](https://github.com/cvlab-kaist/GLD)]
