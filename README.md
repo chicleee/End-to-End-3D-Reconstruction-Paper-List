@@ -5,7 +5,7 @@ Personal list. With relevant research advancing fast and branching out widely, I
 - [Cross View](#cross-view)
 - [Pose Estimation](#pose-estimation)
 - [3D Reconstruction](#3d-reconstruction)
-- [Self/Weak-Supervised](#self/weak-supervised)
+- [Self or Weak Supervised](#self-or-weak-supervised)
 - [Generation](#generation)
 - [Semantic](#semantic)
 - [Depth](#depth)
@@ -106,6 +106,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * S-VGGT: Structure-Aware Subscene Decomposition for Scalable 3D Foundation Models [[arXiv 2026](https://arxiv.org/pdf/2603.17625)] [[]()]
 
+* HD-VGGT: High-Resolution Visual Geometry Transformer [[arXiv 2026](https://arxiv.org/pdf/2603.27222)] [[]()]
+
 ## Self/Weak-Supervised
 
 * Reliev3R: Relieving Feed-forward 3D Reconstruction from Multi-View Geometric Annotations [[arXiv 2026](https://arxiv.org/pdf/2604.00548)] [[]()]
@@ -119,6 +121,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * UniRecGen: Unifying Multi-View 3D Reconstruction and Generation [[arXiv 2025](https://arxiv.org/pdf/2604.01479)] [[UniRecGen](https://github.com/zsh523/UniRecGen)]
 
 * Stepper: Stepwise Immersive Scene Generation with Multiview Panorama [[CVPRF 2026](https://arxiv.org/pdf/2603.28980)] [[stepper](https://fwmb.github.io/stepper/)]
+
+* VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward [[arXiv 2026](https://arxiv.org/pdf/2603.26599)] [[VGGRPO](https://zhaochongan.github.io/projects/VGGRPO/)]
 
 ## Semantic
 
@@ -195,3 +199,5 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * One-Shot Refiner: Boosting Feed-forward Novel View Synthesis via One-Step Diffusion [[arXiv 2026](https://arxiv.org/pdf/2601.14161)] [[One_Shot_Refiner](https://github.com/YitongD/One_Shot_Refiner)]
 
 * Repurposing Geometric Foundation Models for Multi-view Diffusion [[arXiv 2026](https://arxiv.org/pdf/2603.22275)] [[GLD](https://github.com/cvlab-kaist/GLD)]
+
+* UniQueR: Unified Query-based Feedforward 3D Reconstruction [[arXiv 2026](https://arxiv.org/pdf/2603.22851)] [[]()]
