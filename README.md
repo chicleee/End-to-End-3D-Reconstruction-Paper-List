@@ -5,6 +5,7 @@ Personal list. With relevant research advancing fast and branching out widely, I
 - [Cross View](#cross-view)
 - [Pose Estimation](#pose-estimation)
 - [3D Reconstruction](#3d-reconstruction)
+- [Self/Weak-Supervised](#self/weak-supervised)
 - [Generation](#generation)
 - [Semantic](#semantic)
 - [Depth](#depth)
@@ -105,9 +106,19 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * S-VGGT: Structure-Aware Subscene Decomposition for Scalable 3D Foundation Models [[arXiv 2026](https://arxiv.org/pdf/2603.17625)] [[]()]
 
+## Self/Weak-Supervised
+
+* Reliev3R: Relieving Feed-forward 3D Reconstruction from Multi-View Geometric Annotations [[arXiv 2026](https://arxiv.org/pdf/2604.00548)] [[]()]
+
+* From None to All: Self-Supervised 3D Reconstruction via Novel View Synthesis [[CVPR 2026](https://arxiv.org/pdf/2603.27455)] [[nas3r](https://ranrhuang.github.io/nas3r/)]
+
 ## Generation
 
 * ReconViaGen: Towards Accurate Multi-view 3D Object Reconstruction via Generation [[arXiv 2025](https://arxiv.org/pdf/2510.23306)] [[ReconViaGen](https://github.com/GAP-LAB-CUHK-SZ/ReconViaGen)]
+
+* UniRecGen: Unifying Multi-View 3D Reconstruction and Generation [[arXiv 2025](https://arxiv.org/pdf/2604.01479)] [[UniRecGen](https://github.com/zsh523/UniRecGen)]
+
+* Stepper: Stepwise Immersive Scene Generation with Multiview Panorama [[CVPRF 2026](https://arxiv.org/pdf/2603.28980)] [[stepper](https://fwmb.github.io/stepper/)]
 
 ## Semantic
 
@@ -178,6 +189,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images [[arXiv 2025](https://arxiv.org/pdf/2512.18692)] [[ecosplat-site](https://kaist-viclab.github.io/ecosplat-site/)]
 
 * From Rays to Projections: Better Inputs for Feed-Forward View Synthesis [[arXiv 2026](https://arxiv.org/pdf/2601.05116)] [[pvsm-web](https://wuzirui.github.io/pvsm-web/)]
+
+* Diff3R: Feed-forward 3D Gaussian Splatting with Uncertainty-aware Differentiable Optimization [[arXiv 2026](https://arxiv.org/pdf/2604.01030)] [[diff3r](https://liu115.github.io/diff3r)]
   
 * One-Shot Refiner: Boosting Feed-forward Novel View Synthesis via One-Step Diffusion [[arXiv 2026](https://arxiv.org/pdf/2601.14161)] [[One_Shot_Refiner](https://github.com/YitongD/One_Shot_Refiner)]
 
