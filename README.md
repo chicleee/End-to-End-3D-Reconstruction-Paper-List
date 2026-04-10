@@ -169,3 +169,4 @@ Personal list. With relevant research advancing fast and branching out widely, I
   
 * LagerNVS: Latent Geometry for Fully Neural Real-Time Novel View Synthesis [[CVPR 2026](https://arxiv.org/pdf/2603.20176)] [[lagernvs](https://github.com/facebookresearch/lagernvs)]
 
+* Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors [[CVPR 2026](https://arxiv.org/pdf/2603.23324)] [[PFGS360](https://github.com/zcq15/PFGS360)]
