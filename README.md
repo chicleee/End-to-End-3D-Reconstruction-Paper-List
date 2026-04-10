@@ -201,3 +201,6 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * Repurposing Geometric Foundation Models for Multi-view Diffusion [[arXiv 2026](https://arxiv.org/pdf/2603.22275)] [[GLD](https://github.com/cvlab-kaist/GLD)]
 
 * UniQueR: Unified Query-based Feedforward 3D Reconstruction [[arXiv 2026](https://arxiv.org/pdf/2603.22851)] [[]()]
+
+* LagerNVS: Latent Geometry for Fully Neural Real-Time Novel View Synthesis [[CVPR 2026](https://arxiv.org/pdf/2603.20176)] [[lagernvs](https://github.com/facebookresearch/lagernvs)]
+
