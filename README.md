@@ -163,5 +163,9 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * UniQueR: Unified Query-based Feedforward 3D Reconstruction [[arXiv 2026](https://arxiv.org/pdf/2603.22851)] [[]()]
 
+* Leveling3D: Leveling Up 3D Reconstruction withFeed-Forward 3D Gaussian Splatting andGeometry-Aware Generation [[arXiv 2026](https://arxiv.org/pdf/2603.16211)] [[]()]
+
+* Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting [[ICLR 2026](https://arxiv.org/pdf/2603.25745)] [[lgtm](https://yxlao.github.io/lgtm)]
+  
 * LagerNVS: Latent Geometry for Fully Neural Real-Time Novel View Synthesis [[CVPR 2026](https://arxiv.org/pdf/2603.20176)] [[lagernvs](https://github.com/facebookresearch/lagernvs)]
 
