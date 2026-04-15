@@ -74,6 +74,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * HD-VGGT: High-Resolution Visual Geometry Transformer [[arXiv 2026](https://arxiv.org/pdf/2603.27222)] [[]()]
 
+* DAGE: Dual-Stream Architecture for Efficient and Fine-Grained Geometry Estimation [[CVPR 2026](https://arxiv.org/pdf/2603.03744)] [[DAGE](https://github.com/ngoductuanlhp/DAGE)]
+
 ## Scalable
 
 * Offline Feed-Forward 3D Reconstruction at Scale [[arXiv 2026](https://arxiv.org/pdf/2602.23361)] [[]()]
