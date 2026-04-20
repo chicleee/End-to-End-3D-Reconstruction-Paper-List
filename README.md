@@ -88,17 +88,23 @@ Personal list. With relevant research advancing fast and branching out widely, I
   
 * Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction [[CVPR 2026](https://arxiv.org/pdf/2604.08542v1)] [[scal3r](https://zju3dv.github.io/scal3r/)]
 
+* LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction [[arXiv 2026](https://arxiv.org/pdf/2604.14141)] [[lingbot-map](https://github.com/robbyant/lingbot-map)]
+
 ## Self/Weak-Supervised
 
 * Reliev3R: Relieving Feed-forward 3D Reconstruction from Multi-View Geometric Annotations [[arXiv 2026](https://arxiv.org/pdf/2604.00548)] [[]()]
 
 * From None to All: Self-Supervised 3D Reconstruction via Novel View Synthesis [[CVPR 2026](https://arxiv.org/pdf/2603.27455)] [[nas3r](https://ranrhuang.github.io/nas3r/)]
 
+* FF3R: Feedforward Feature 3D Reconstruction from Unconstrained views [[CVPRF 2026](https://arxiv.org/pdf/2604.09862)] [[ff3r](https://github.com/ChaoyiZh/ff3r)]
+
 ## Semantic
 
 * PanSt3R: Multi-view Consistent Panoptic Segmentation [[ICCV 2025](https://arxiv.org/pdf/2506.21348)] [[panst3r](https://github.com/naver/panst3r)]
 
 * IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction [[ICLR 2026](https://arxiv.org/pdf/2510.22706)] [[IGGT_official](https://github.com/lifuguan/IGGT_official)]
+
+* VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation [[arXiv 2026](https://arxiv.org/pdf/2604.13596)] [[]()]
   
 ## Dynamic
   
@@ -172,3 +178,5 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * LagerNVS: Latent Geometry for Fully Neural Real-Time Novel View Synthesis [[CVPR 2026](https://arxiv.org/pdf/2603.20176)] [[lagernvs](https://github.com/facebookresearch/lagernvs)]
 
 * Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors [[CVPR 2026](https://arxiv.org/pdf/2603.23324)] [[PFGS360](https://github.com/zcq15/PFGS360)]
+
+* FreeScale: Scaling 3D scenes via Certainty-Aware Free-View Generation [[CVPR 2026](https://arxiv.org/pdf/2604.10512)] [[FreeScale](https://github.com/mvp-ai-lab/FreeScale)]
