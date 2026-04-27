@@ -76,6 +76,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * DAGE: Dual-Stream Architecture for Efficient and Fine-Grained Geometry Estimation [[CVPR 2026](https://arxiv.org/pdf/2603.03744)] [[DAGE](https://github.com/ngoductuanlhp/DAGE)]
 
+* Unlocking the Power of Critical Factors for 3D Visual Geometry Estimation [[CVPR 2026](https://arxiv.org/pdf/2604.21713)] [[CARVE](https://github.com/aim-uofa/CARVE)]
+
 ## Scalable
 
 * Offline Feed-Forward 3D Reconstruction at Scale [[arXiv 2026](https://arxiv.org/pdf/2602.23361)] [[]()]
