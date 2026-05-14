@@ -22,9 +22,9 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass [[CVPR 2025](https://arxiv.org/pdf/2501.13928)] [[fast3r-3d](https://fast3r-3d.github.io/)]
 
-* MUSt3R: Multi-view Network for Stereo 3D Reconstruction [[arXiv 2025](https://arxiv.org/pdf/2503.01661)] [[must3r](https://github.com/naver/must3r)]
+* MUSt3R: Multi-view Network for Stereo 3D Reconstruction [[CVPR 2025](https://arxiv.org/pdf/2503.01661)] [[must3r](https://github.com/naver/must3r)]
 
-* PE3R: Perception-Efficient 3D Reconstruction [[arXiv 2025](https://arxiv.org/pdf/2503.07507)] [[pe3r](https://github.com/hujiecpp/pe3r)]
+* PE3R: Perception-Efficient 3D Reconstruction [[CVPR 2026](https://arxiv.org/pdf/2503.07507)] [[pe3r](https://github.com/hujiecpp/pe3r)]
 
 * VGGT: Visual Geometry Grounded Transformer [[CVPR 2025](https://arxiv.org/pdf/2503.11651v1)] [[vggt](https://github.com/facebookresearch/vggt)]
 
@@ -34,39 +34,35 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion [[CVPR 2025](https://arxiv.org/pdf/2505.05473)] [[DiffusionSfM](https://github.com/QitaoZhao/DiffusionSfM)]
 
-* Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory [[arXiv 2025](https://arxiv.org/pdf/2507.02863)] [[Point3R](https://github.com/YkiWu/Point3R)]
+* Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory [[NeurIPS 2025](https://arxiv.org/pdf/2507.02863)] [[Point3R](https://github.com/YkiWu/Point3R)]
 
-* π³: Scalable Permutation-Equivariant Visual Geometry Learning [[arXiv 2025](https://arxiv.org/pdf/2507.13347)] [[Pi3](https://github.com/yyfz/Pi3)]
+* π³: Scalable Permutation-Equivariant Visual Geometry Learning [[ICLR 2026](https://arxiv.org/pdf/2507.13347)] [[Pi3](https://github.com/yyfz/Pi3)]
 
-* StreamVGGT: Streaming 4D Visual Geometry Transformer [[arXiv 2025](https://arxiv.org/pdf/2507.11539)] [[StreamVGGT](https://github.com/wzzheng/StreamVGGT)]
+* StreamVGGT: Streaming 4D Visual Geometry Transformer [[ICLR 2026](https://arxiv.org/pdf/2507.11539)] [[StreamVGGT](https://github.com/wzzheng/StreamVGGT)]
 
-* Evict3R: Training-Free Token Eviction for Memory-Bounded Streaming Visual Geometry Transformers [[arXiv 2025](https://arxiv.org/pdf/2509.17650?)]
+* Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images [[CVPR 2026](https://arxiv.org/pdf/2508.03643)] [[Uni3R](https://github.com/HorizonRobotics/Uni3R)]  
 
-* Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images [[arXiv 2025](https://arxiv.org/pdf/2508.03643)] [[Uni3R](https://github.com/HorizonRobotics/Uni3R)]  
-
-* Surf3R: Rapid Surface Reconstruction from Sparse RGB Views in Seconds [[arXiv 2025](https://arxiv.org/pdf/2508.04508)] [[]()]  
-
-* STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer [[arXiv 2025](https://arxiv.org/pdf/2508.10893)] [[STream3R](https://github.com/NIRVANALAN/STream3R)]  
+* STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer [[ICLR 2026](https://arxiv.org/pdf/2508.10893)] [[STream3R](https://github.com/NIRVANALAN/STream3R)]  
 
 * WinT3R: Window-Based Streaming Reconstruction With Camera Token Pool [[arXiv 2025](https://arxiv.org/pdf/2509.05296?)] [[WinT3R](https://github.com/LiZizun/WinT3R)]
 
-* SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization [[arXiv 2025](https://arxiv.org/pdf/2508.17972)] [[sail-recon](https://hkust-sail.github.io/sail-recon)]
+* SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization [[3DV 2026](https://arxiv.org/pdf/2508.17972)] [[sail-recon](https://hkust-sail.github.io/sail-recon)]
   
-* FastVGGT: Training-Free Acceleration of Visual Geometry Transformer [[arXiv 2025](https://arxiv.org/pdf/2509.02560v1)] [[FastVGGT](https://github.com/mystorm16/FastVGGT)]
+* FastVGGT: Training-Free Acceleration of Visual Geometry Transformer [[ICLR 2026](https://arxiv.org/pdf/2509.02560v1)] [[FastVGGT](https://github.com/mystorm16/FastVGGT)]
 
-* Faster VGGT with Block-Sparse Global Attention [[arXiv 2025](https://arxiv.org/pdf/2509.07120?)] [[sparse-vggt](https://github.com/brianwang00001/sparse-vggt)]
+* Faster VGGT with Block-Sparse Global Attention [[CVPR 2026](https://arxiv.org/pdf/2509.07120?)] [[sparse-vggt](https://github.com/brianwang00001/sparse-vggt)]
 
-* Quantized Visual Geometry Grounded Transformer [[arXiv 2025](https://arxiv.org/pdf/2509.21302?)] [[QuantVGGT](https://github.com/wlfeng0509/QuantVGGT)]
+* Quantized Visual Geometry Grounded Transformer [[ICLR 2026](https://arxiv.org/pdf/2509.21302?)] [[QuantVGGT](https://github.com/wlfeng0509/QuantVGGT)]
   
-* MapAnything: Universal Feed-Forward Metric 3D Reconstruction [[arXiv 2025](https://arxiv.org/abs/2509.13414)] [[map-anything](https://github.com/facebookresearch/map-anything)]
+* MapAnything: Universal Feed-Forward Metric 3D Reconstruction [[3DV 2026](https://arxiv.org/abs/2509.13414)] [[map-anything](https://github.com/facebookresearch/map-anything)]
 
-* TTT3R: 3D Reconstruction as Test-Time Training [[arXiv 2025](https://arxiv.org/pdf/2509.26645?)] [[TTT3R](https://rover-xingyu.github.io/TTT3R/)]
+* TTT3R: 3D Reconstruction as Test-Time Training [[ICLR 2026](https://arxiv.org/pdf/2509.26645?)] [[TTT3R](https://rover-xingyu.github.io/TTT3R/)]
 
 * WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting [[arXiv 2025](https://arxiv.org/pdf/2510.10726)] [[HunyuanWorld-Mirror](https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror)]
 
-* OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer [[arXiv 2025](https://arxiv.org/pdf/2511.10560)] [[OmniVGGT](https://livioni.github.io/OmniVGGT-official/)]
+* OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer [[CVPR 2026](https://arxiv.org/pdf/2511.10560)] [[OmniVGGT](https://livioni.github.io/OmniVGGT-official/)]
 
-* Depth Anything 3: Recovering the Visual Space from Any Views [[arXiv 2025](https://arxiv.org/pdf/2511.10647)] [[DA3](https://depth-anything-3.github.io/)]
+* Depth Anything 3: Recovering the Visual Space from Any Views [[ICLR 2026](https://arxiv.org/pdf/2511.10647)] [[DA3](https://depth-anything-3.github.io/)]
 
 * NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction [[ICLR 2026](https://arxiv.org/pdf/2603.04179)] [[nova3r](https://wrchen530.github.io/nova3r/)]
 
@@ -116,17 +112,17 @@ Personal list. With relevant research advancing fast and branching out widely, I
   
 * Driv3R: Learning Dense 4D Reconstruction for Autonomous Driving [[arXiv 2024](https://arxiv.org/pdf/2412.06777)] [[Driv3R](https://github.com/Barrybarry-Smith/Driv3R)]
 
-* Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction [[arXiv 2025](https://arxiv.org/pdf/2504.07961)] [[Geo4D](https://github.com/jzr99/Geo4D)]
+* Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction [[ICCV 2025](https://arxiv.org/pdf/2504.07961)] [[Geo4D](https://github.com/jzr99/Geo4D)]
 
 * ViPE: Video Pose Engine for Geometric 3D Perception [[arXiv 2025](https://research.nvidia.com/labs/toronto-ai/vipe/assets/paper.pdf)] [[vipe](https://github.com/nv-tlabs/vipe)]
 
 * VGGT4D: Mining Motion Cues in Visual Geometry Transformers for 4D Scene Reconstruction [[arXiv 2025](https://arxiv.org/pdf/2511.19971)] [[vggt4d](https://3dagentworld.github.io/vggt4d)]
 
-* Efficiently Reconstructing Dynamic Scenes One D4RT at a Time [[arXiv 2025](https://arxiv.org/pdf/2512.08924)] [[d4rt](https://d4rt-paper.github.io/)]
+* Efficiently Reconstructing Dynamic Scenes One D4RT at a Time [[CVPR 2026](https://arxiv.org/pdf/2512.08924)] [[d4rt](https://d4rt-paper.github.io/)]
 
 ## Generation
 
-* ReconViaGen: Towards Accurate Multi-view 3D Object Reconstruction via Generation [[arXiv 2025](https://arxiv.org/pdf/2510.23306)] [[ReconViaGen](https://github.com/GAP-LAB-CUHK-SZ/ReconViaGen)]
+* ReconViaGen: Towards Accurate Multi-view 3D Object Reconstruction via Generation [[ICLR 2026](https://arxiv.org/pdf/2510.23306)] [[ReconViaGen](https://github.com/GAP-LAB-CUHK-SZ/ReconViaGen)]
 
 * UniRecGen: Unifying Multi-View 3D Reconstruction and Generation [[arXiv 2025](https://arxiv.org/pdf/2604.01479)] [[UniRecGen](https://github.com/zsh523/UniRecGen)]
 
@@ -147,23 +143,23 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * FlowR: Flowing from Sparse to Dense 3D Reconstructions [[ICCV 2025](https://arxiv.org/pdf/2504.01647)] [[flowr](https://github.com/tobiasfshr/flowr)]
 
-* RayZer: A Self-supervised Large View Synthesis Model [[arXiv 2025](https://arxiv.org/pdf/2505.00702?)] [[RayZer](https://github.com/hwjiang1510/RayZer)]
+* RayZer: A Self-supervised Large View Synthesis Model [[ICCV 2025](https://arxiv.org/pdf/2505.00702?)] [[RayZer](https://github.com/hwjiang1510/RayZer)]
 
-* AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views [[arXiv 2025](https://arxiv.org/pdf/2505.23716)] [[AnySplat](https://github.com/InternRobotics/AnySplat)]
+* AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views [[SIGGRAPH Asia 2025](https://arxiv.org/pdf/2505.23716)] [[AnySplat](https://github.com/InternRobotics/AnySplat)]
 
 * VGGT-X: When VGGT Meets Dense Novel View Synthesis [[arXiv 2025](https://arxiv.org/pdf/2509.25191?)] [[VGGT-X](https://github.com/Linketic/VGGT-X)]
 
-* YoNoSplat: You Only Need One Model for Feedforward 3D Gaussian Splatting [[arXiv 2025](https://arxiv.org/pdf/2511.07321)] [[yonosplat](https://botaoye.github.io/yonosplat/)]
+* YoNoSplat: You Only Need One Model for Feedforward 3D Gaussian Splatting [[ICLR 2026](https://arxiv.org/pdf/2511.07321)] [[yonosplat](https://botaoye.github.io/yonosplat/)]
 
-* E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training [[arXiv 2025](https://arxiv.org/pdf/2512.10950)] [[E-RayZer](https://github.com/QitaoZhao/E-RayZer)]
+* E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training [[CVPR 2026](https://arxiv.org/pdf/2512.10950)] [[E-RayZer](https://github.com/QitaoZhao/E-RayZer)]
 
-* Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting [[arXiv 2025](https://arxiv.org/pdf/2512.15508)] [[OffTheGrid](https://arthurmoreau.github.io/OffTheGrid/)]
+* Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting [[CVPR 2026](https://arxiv.org/pdf/2512.15508)] [[OffTheGrid](https://arthurmoreau.github.io/OffTheGrid/)]
 
 * Sharp Monocular View Synthesis in Less Than a Second [[arXiv 2025](https://arxiv.org/pdf/2512.10685)] [[ml-sharp](https://github.com/apple/ml-sharp)]
 
-* EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images [[arXiv 2025](https://arxiv.org/pdf/2512.18692)] [[ecosplat-site](https://kaist-viclab.github.io/ecosplat-site/)]
+* EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images [[CVPR 2026](https://arxiv.org/pdf/2512.18692)] [[ecosplat-site](https://kaist-viclab.github.io/ecosplat-site/)]
 
-* From Rays to Projections: Better Inputs for Feed-Forward View Synthesis [[arXiv 2026](https://arxiv.org/pdf/2601.05116)] [[pvsm-web](https://wuzirui.github.io/pvsm-web/)]
+* From Rays to Projections: Better Inputs for Feed-Forward View Synthesis [[CVPR 2026](https://arxiv.org/pdf/2601.05116)] [[pvsm-web](https://wuzirui.github.io/pvsm-web/)]
 
 * Diff3R: Feed-forward 3D Gaussian Splatting with Uncertainty-aware Differentiable Optimization [[arXiv 2026](https://arxiv.org/pdf/2604.01030)] [[diff3r](https://liu115.github.io/diff3r)]
   
