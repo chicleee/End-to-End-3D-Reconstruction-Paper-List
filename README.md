@@ -74,7 +74,9 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * Unlocking the Power of Critical Factors for 3D Visual Geometry Estimation [[CVPR 2026](https://arxiv.org/pdf/2604.21713)] [[CARVE](https://github.com/aim-uofa/CARVE)]
 
-* VGGT-Ω [[CVPR 2026](https://vggt-omega.github.io/assets/paper/preview_v3.pdf)] [[vggt-omega](https://github.com/facebookresearch/vggt-omega)] 
+* VGGT-Ω [[CVPR 2026](https://vggt-omega.github.io/assets/paper/preview_v3.pdf)] [[vggt-omega](https://github.com/facebookresearch/vggt-omega)]
+
+* GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction [[arXiv 2026](https://arxiv.org/pdf/2605.23888)] [[GenRecon](https://kasothaphie.github.io/GenRecon/)]
 
 ## Scalable
 
