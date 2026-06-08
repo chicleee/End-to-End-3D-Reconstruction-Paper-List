@@ -86,7 +86,7 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory [[arXiv 2026](https://arxiv.org/pdf/2603.03269)] [[LoGeR](https://github.com/Junyi42/LoGeR)]
   
-* S-VGGT: Structure-Aware Subscene Decomposition for Scalable 3D Foundation Models [[arXiv 2026](https://arxiv.org/pdf/2603.17625)] [[]()]
+* S-VGGT: Structure-Aware Subscene Decomposition for Scalable 3D Foundation Models [[ICME 2026](https://arxiv.org/pdf/2603.17625)] [[S-VGGT](https://github.com/Powertony102/S-VGGT)]
   
 * Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction [[CVPR 2026](https://arxiv.org/pdf/2604.08542v1)] [[scal3r](https://zju3dv.github.io/scal3r/)]
 
