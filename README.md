@@ -182,3 +182,5 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors [[CVPR 2026](https://arxiv.org/pdf/2603.23324)] [[PFGS360](https://github.com/zcq15/PFGS360)]
 
 * FreeScale: Scaling 3D scenes via Certainty-Aware Free-View Generation [[CVPR 2026](https://arxiv.org/pdf/2604.10512)] [[FreeScale](https://github.com/mvp-ai-lab/FreeScale)]
+
+* ZipSplat: Fewer Gaussians, Better Splats [[arXiv 2026](https://arxiv.org/pdf/2606.05102)] [[ZipSplat](https://github.com/cvg/ZipSplat)]
