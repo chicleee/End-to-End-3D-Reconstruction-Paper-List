@@ -183,4 +183,6 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * FreeScale: Scaling 3D scenes via Certainty-Aware Free-View Generation [[CVPR 2026](https://arxiv.org/pdf/2604.10512)] [[FreeScale](https://github.com/mvp-ai-lab/FreeScale)]
 
+* C3G: Learning Compact 3D Representations with 2K Gaussians [[CVPR 2026](https://arxiv.org/pdf/2512.04021)] [[C3G](https://github.com/cvlab-kaist/C3G)]
+
 * ZipSplat: Fewer Gaussians, Better Splats [[arXiv 2026](https://arxiv.org/pdf/2606.05102)] [[ZipSplat](https://github.com/cvg/ZipSplat)]
