@@ -78,6 +78,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * Déjà View: Looping Transformers for Multi-View 3D Reconstruction [arXiv 2026](https://arxiv.org/pdf/2605.30215)] [[dvlt](https://github.com/nv-tlabs/dvlt)]
 
+* Surflo: Consistent 3D Surface Flow Model with Global State [arXiv 2026](https://arxiv.org/pdf/2606.13644)] [[surflo](https://anttwo.github.io/surflo/)]
+  
 ## Scalable
 
 * Offline Feed-Forward 3D Reconstruction at Scale [[arXiv 2026](https://arxiv.org/pdf/2602.23361)] [[]()]
