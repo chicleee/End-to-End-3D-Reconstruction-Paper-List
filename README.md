@@ -76,6 +76,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction [[arXiv 2026](https://arxiv.org/pdf/2605.23888)] [[GenRecon](https://kasothaphie.github.io/GenRecon/)]
 
+* Déjà View: Looping Transformers for Multi-View 3D Reconstruction [arXiv 2026](https://arxiv.org/pdf/2605.30215)] [[dvlt](https://github.com/nv-tlabs/dvlt)]
+
 ## Scalable
 
 * Offline Feed-Forward 3D Reconstruction at Scale [[arXiv 2026](https://arxiv.org/pdf/2602.23361)] [[]()]
