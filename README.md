@@ -168,6 +168,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * Sharp Monocular View Synthesis in Less Than a Second [[arXiv 2025](https://arxiv.org/pdf/2512.10685)] [[ml-sharp](https://github.com/apple/ml-sharp)]
 
+* UniSHARP: Universal Sharp Monocular View Synthesis [[arXiv 2026](https://arxiv.org/pdf/2606.07514)] [[UniSHARP](https://github.com/Insta360-Research-Team/UniSHARP)] 
+
 * EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images [[CVPR 2026](https://arxiv.org/pdf/2512.18692)] [[ecosplat-site](https://kaist-viclab.github.io/ecosplat-site/)]
 
 * From Rays to Projections: Better Inputs for Feed-Forward View Synthesis [[CVPR 2026](https://arxiv.org/pdf/2601.05116)] [[pvsm-web](https://wuzirui.github.io/pvsm-web/)]
