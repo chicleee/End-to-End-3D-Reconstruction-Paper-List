@@ -110,6 +110,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction [[ICLR 2026](https://arxiv.org/pdf/2510.22706)] [[IGGT_official](https://github.com/lifuguan/IGGT_official)]
 
 * VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation [[arXiv 2026](https://arxiv.org/pdf/2604.13596)] [[]()]
+
+* EPS3D : End-to-End Feed-Forward 3D Panoptic Segmentation [[ICML 2026](https://arxiv.org/pdf/2606.08980)] [[EPS3D](https://github.com/Runsong123/EPS3D)]
   
 ## Dynamic
   
