@@ -40,8 +40,6 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * StreamVGGT: Streaming 4D Visual Geometry Transformer [[ICLR 2026](https://arxiv.org/pdf/2507.11539)] [[StreamVGGT](https://github.com/wzzheng/StreamVGGT)]
 
-* Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images [[CVPR 2026](https://arxiv.org/pdf/2508.03643)] [[Uni3R](https://github.com/HorizonRobotics/Uni3R)]  
-
 * STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer [[ICLR 2026](https://arxiv.org/pdf/2508.10893)] [[STream3R](https://github.com/NIRVANALAN/STream3R)]  
 
 * WinT3R: Window-Based Streaming Reconstruction With Camera Token Pool [[arXiv 2025](https://arxiv.org/pdf/2509.05296?)] [[WinT3R](https://github.com/LiZizun/WinT3R)]
@@ -108,6 +106,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * PanSt3R: Multi-view Consistent Panoptic Segmentation [[ICCV 2025](https://arxiv.org/pdf/2506.21348)] [[panst3r](https://github.com/naver/panst3r)]
 
 * IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction [[ICLR 2026](https://arxiv.org/pdf/2510.22706)] [[IGGT_official](https://github.com/lifuguan/IGGT_official)]
+
+* Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images [[CVPR 2026](https://arxiv.org/pdf/2508.03643)] [[Uni3R](https://github.com/HorizonRobotics/Uni3R)]  
 
 * VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation [[arXiv 2026](https://arxiv.org/pdf/2604.13596)] [[]()]
 
