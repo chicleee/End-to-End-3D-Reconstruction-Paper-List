@@ -4,7 +4,7 @@ Personal list. With relevant research advancing fast and branching out widely, I
 ---
 - [3D Reconstruction](#3d-reconstruction)
 - [Scalable](#scalable)
-- [Self or Weak Supervised](#self-or-weak-supervised)
+- [Self Supervised](#self-supervised)
 - [Semantic](#semantic)
 - [Dynamic](#dynamic)
 - [Generation](#generation)
@@ -76,9 +76,11 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction [[arXiv 2026](https://arxiv.org/pdf/2605.23888)] [[GenRecon](https://kasothaphie.github.io/GenRecon/)]
 
-* Déjà View: Looping Transformers for Multi-View 3D Reconstruction [arXiv 2026](https://arxiv.org/pdf/2605.30215)] [[dvlt](https://github.com/nv-tlabs/dvlt)]
+* Déjà View: Looping Transformers for Multi-View 3D Reconstruction [[arXiv 2026](https://arxiv.org/pdf/2605.30215)] [[dvlt](https://github.com/nv-tlabs/dvlt)]
 
-* Surflo: Consistent 3D Surface Flow Model with Global State [arXiv 2026](https://arxiv.org/pdf/2606.13644)] [[surflo](https://anttwo.github.io/surflo/)]
+* Surflo: Consistent 3D Surface Flow Model with Global State [[arXiv 2026](https://arxiv.org/pdf/2606.13644)] [[surflo](https://anttwo.github.io/surflo/)]
+
+* :globe_with_meridians: Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes [[arXiv 2026](https://arxiv.org/abs/2606.30047)] [[argus](https://argus-paper.realsee.ai/)]
   
 ## Scalable
 
@@ -97,7 +99,7 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * MERG3R: A Divide-and-Conquer Approach to Large-Scale Neural Visual Geometry [[CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_MERG3R_A_Divide-and-Conquer_Approach_to_Large-Scale_Neural_Visual_Geometry_CVPR_2026_paper.pdf)] [[MERG3R](https://github.com/LeoChengKX/MERG3R)]
 
 
-## Self/Weak-Supervised
+## Self-Supervised
 
 * Reliev3R: Relieving Feed-forward 3D Reconstruction from Multi-View Geometric Annotations [[arXiv 2026](https://arxiv.org/pdf/2604.00548)] [[]()]
 
