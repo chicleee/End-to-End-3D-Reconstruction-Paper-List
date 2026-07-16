@@ -118,6 +118,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation [[arXiv 2026](https://arxiv.org/pdf/2604.13596)] [[]()]
 
 * EPS3D : End-to-End Feed-Forward 3D Panoptic Segmentation [[ICML 2026](https://arxiv.org/pdf/2606.08980)] [[EPS3D](https://github.com/Runsong123/EPS3D)]
+
+* SegVGGT: Joint 3D Reconstruction and InstanceSegmentation from Multi-View Images [[ECCV 2026](https://arxiv.org/pdf/2603.19926)] [[SegVGGT](https://github.com/IDEA-Research/SegVGGT)]
   
 ## Dynamic
   
