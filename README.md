@@ -146,6 +146,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * Stepper: Stepwise Immersive Scene Generation with Multiview Panorama [[CVPRF 2026](https://arxiv.org/pdf/2603.28980)] [[stepper](https://fwmb.github.io/stepper/)]
 
 * VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward [[arXiv 2026](https://arxiv.org/pdf/2603.26599)] [[VGGRPO](https://zhaochongan.github.io/projects/VGGRPO/)]
+
+* Latent Riemannian Flow Matching for Geometry-Grounded 3D Foundation Models [[arXiv 2026](https://arxiv.org/pdf/2607.19120)] [[geometry-grounded-rfm](https://lisaweijler.github.io/geometry-grounded-rfm/)]
   
 ## Novel View Synthesis
 * Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs [[arXiv 2024](https://arxiv.org/pdf/2408.13912)] [[splatt3r](https://github.com/btsmart/splatt3r)]
