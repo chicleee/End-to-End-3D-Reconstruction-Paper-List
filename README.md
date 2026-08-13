@@ -148,6 +148,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward [[arXiv 2026](https://arxiv.org/pdf/2603.26599)] [[VGGRPO](https://zhaochongan.github.io/projects/VGGRPO/)]
 
 * Latent Riemannian Flow Matching for Geometry-Grounded 3D Foundation Models [[arXiv 2026](https://arxiv.org/pdf/2607.19120)] [[geometry-grounded-rfm](https://lisaweijler.github.io/geometry-grounded-rfm/)]
+
+* PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space [[arXiv 2026](https://arxiv.org/pdf/2607.05373)] [[PixWorld](https://github.com/SensenGao/PixWorld)]
   
 ## Novel View Synthesis
 * Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs [[arXiv 2024](https://arxiv.org/pdf/2408.13912)] [[splatt3r](https://github.com/btsmart/splatt3r)]
@@ -205,3 +207,5 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * ZipSplat: Fewer Gaussians, Better Splats [[arXiv 2026](https://arxiv.org/pdf/2606.05102)] [[ZipSplat](https://github.com/cvg/ZipSplat)]
 
 * AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model [[arXiv 2026](https://arxiv.org/pdf/2604.19747)] [[AnyRecon](https://github.com/OpenImagingLab/AnyRecon)]
+
+* QuerySplat: Decoupling Geometry and Appearance Representations in 3DGS Prediction [[arXiv 2026](https://arxiv.org/pdf/2608.01186)] [[querysplat](https://github.com/inspatio/querysplat)]
