@@ -80,7 +80,7 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * Surflo: Consistent 3D Surface Flow Model with Global State [[arXiv 2026](https://arxiv.org/pdf/2606.13644)] [[surflo](https://anttwo.github.io/surflo/)]
 
-* :globe_with_meridians: Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes [[arXiv 2026](https://arxiv.org/abs/2606.30047)] [[argus](https://argus-paper.realsee.ai/)]
+* :globe_with_meridians: Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes [[ECCV 2026](https://arxiv.org/abs/2606.30047)] [[argus](https://argus-paper.realsee.ai/)]
   
 ## Scalable
 
@@ -99,6 +99,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * MERG3R: A Divide-and-Conquer Approach to Large-Scale Neural Visual Geometry [[CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_MERG3R_A_Divide-and-Conquer_Approach_to_Large-Scale_Neural_Visual_Geometry_CVPR_2026_paper.pdf)] [[MERG3R](https://github.com/LeoChengKX/MERG3R)]
 
 * HorizonStream: Long-Horizon Attention for Streaming 3D Reconstruction [[arXiv 2026](https://arxiv.org/pdf/2605.23889)] [[HorizonStream](https://github.com/3DAgentWorld/HorizonStream/)]
+
+* Diversity-aware View Partitioning for Scalable VGGT [[ECCV 2026](https://arxiv.org/pdf/2607.01885)] [[DA-VGGT](https://github.com/jspark1213/DA-VGGT)]
 
 
 ## Self-Supervised
