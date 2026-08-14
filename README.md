@@ -98,6 +98,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * MERG3R: A Divide-and-Conquer Approach to Large-Scale Neural Visual Geometry [[CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_MERG3R_A_Divide-and-Conquer_Approach_to_Large-Scale_Neural_Visual_Geometry_CVPR_2026_paper.pdf)] [[MERG3R](https://github.com/LeoChengKX/MERG3R)]
 
+* HorizonStream: Long-Horizon Attention for Streaming 3D Reconstruction [[arXiv 2026](https://arxiv.org/pdf/2605.23889)] [[HorizonStream](https://github.com/3DAgentWorld/HorizonStream/)]
+
 
 ## Self-Supervised
 
