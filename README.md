@@ -154,6 +154,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * Latent Riemannian Flow Matching for Geometry-Grounded 3D Foundation Models [[arXiv 2026](https://arxiv.org/pdf/2607.19120)] [[geometry-grounded-rfm](https://lisaweijler.github.io/geometry-grounded-rfm/)]
 
 * PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space [[arXiv 2026](https://arxiv.org/pdf/2607.05373)] [[PixWorld](https://github.com/SensenGao/PixWorld)]
+
+* GenRec: Knowing Where to Reconstruct and Where to Generate [[arXiv 2026](https://arxiv.org/pdf/2608.17832)] [[GenRec](https://github.com/atcelen/GenRec)]
   
 ## Novel View Synthesis
 * Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs [[arXiv 2024](https://arxiv.org/pdf/2408.13912)] [[splatt3r](https://github.com/btsmart/splatt3r)]
