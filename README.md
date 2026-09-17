@@ -102,6 +102,8 @@ Personal list. With relevant research advancing fast and branching out widely, I
 
 * Diversity-aware View Partitioning for Scalable VGGT [[ECCV 2026](https://arxiv.org/pdf/2607.01885)] [[DA-VGGT](https://github.com/jspark1213/DA-VGGT)]
 
+* Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction [[arXiv 2026](https://arxiv.org/pdf/2608.27529)] [[ABot-Recon](https://github.com/amap-cvlab/ABot-Recon)]
+
 
 ## Self-Supervised
 
