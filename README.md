@@ -217,3 +217,5 @@ Personal list. With relevant research advancing fast and branching out widely, I
 * AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model [[arXiv 2026](https://arxiv.org/pdf/2604.19747)] [[AnyRecon](https://github.com/OpenImagingLab/AnyRecon)]
 
 * QuerySplat: Decoupling Geometry and Appearance Representations in 3DGS Prediction [[arXiv 2026](https://arxiv.org/pdf/2608.01186)] [[querysplat](https://github.com/inspatio/querysplat)]
+
+* VGGT-Diff: Visual Geometry Meets Diffusion for Sparse-View Novel View Synthesis [[arXiv 2026](https://arxiv.org/pdf/2609.33253)] [[VGGT-Diff](https://chenkangjie1123.github.io/VGGT-Diff/)]
